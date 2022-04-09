@@ -10,7 +10,7 @@
     //Trieu's bio
     'Hello my name is Aaron Do. Graduate student from Fanshawe, IDP3. Believe as a active designer always urging to learn and gain experience from futhers front end skills, enjoy all creative work, brainstorm and build up ideas. I also love enjoying many outdoor event such as EDM festival and music concert which give me good experience as ever. My favorite hobby also watching movies and playing online games with friends on my free time. '
     //Linh's bio
-  , 'Hello my name is Linh Nguyen. .'];
+  , 'Hello my name is Linh Nguyen, a soon to be graduated student from Fanshawe, IDP3. As a very shy and timid person, I love being at home and express myself to others by doing art and design. I love spending quality time with people that I care. I love good food and good vibe and my motto is to do whatever you love without being affraid that others would judge you'];
   function memberLoad() {
     //debugger;
     largeImage.classList.add('switchAnimation');
